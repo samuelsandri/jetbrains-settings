@@ -2,4 +2,7 @@
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+  </action>
 </keymap>
