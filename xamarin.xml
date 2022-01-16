@@ -1,0 +1,9 @@
+<application>
+  <component name="XamarinRemoteAgentOptions" hostsRaw="192.168.235.61&#10;" activeRemoteHost="192.168.235.61">
+    <option name="hosts">
+      <list>
+        <option value="192.168.235.61" />
+      </list>
+    </option>
+  </component>
+</application>
