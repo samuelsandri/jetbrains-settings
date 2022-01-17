@@ -5,4 +5,7 @@
   <action id="ViewMainMenu">
     <keyboard-shortcut first-keystroke="ctrl f6" />
   </action>
+  <action id="ViewNewToolbarAction">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
 </keymap>
