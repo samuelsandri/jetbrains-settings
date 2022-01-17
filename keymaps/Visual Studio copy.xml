@@ -1,4 +1,8 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt f5" />
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
