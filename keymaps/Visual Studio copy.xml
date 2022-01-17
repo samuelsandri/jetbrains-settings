@@ -1,7 +1,4 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift t" />
-  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt f5" />
     <keyboard-shortcut first-keystroke="ctrl f8" />
