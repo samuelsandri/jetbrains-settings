@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="alt f5" />
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
+  <action id="GotoNextBookmarkInEditor">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl n" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
