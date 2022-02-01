@@ -15,6 +15,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift back_quote" />
+  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
