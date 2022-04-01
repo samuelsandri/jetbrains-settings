@@ -1,0 +1,10 @@
+<templateSet group="Onside">
+  <template name="ttt" value="[Fact]&#10;public void $METHOD$_$STATE$_$OUTCOME$() {&#10;    // Arrange&#10;    $END$&#10;    // Act &#10;    &#10;    // Assert&#10;    &#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OUTCOME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
