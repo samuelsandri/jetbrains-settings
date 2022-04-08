@@ -9,6 +9,8 @@
   <action id="GotoNextBookmarkInEditor">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl n" />
   </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
@@ -18,6 +20,8 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift back_quote" />
   </action>
+  <action id="ReSharperGotoNextErrorInSolution" />
+  <action id="ReSharperGotoPrevErrorInSolution" />
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
