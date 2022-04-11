@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext="model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>
