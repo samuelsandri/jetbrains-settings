@@ -10,4 +10,11 @@
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="webDeployment.default.server.widget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
