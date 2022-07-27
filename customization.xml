@@ -1,0 +1,44 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="SearchEverywhereNewToolbarAction" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Toolbar" />
+      <path value="Left Side" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SegmentedVcsControlAction" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Toolbar" />
+      <path value="Left Side" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CleanSolutionAction" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Toolbar" />
+      <path value="Left Side" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RebuildSolutionAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Toolbar" />
+      <path value="Left Side" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RebuildCurrentProject" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Toolbar" />
+      <path value="Left Side" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderManageRecentProjects" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Toolbar" />
+      <path value="Left Side" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="RiderManageRecentProjects" icon="C:/Users/samue/Downloads/Vector.svg" />
+    <action id="CleanSolutionAction" icon="C:/Users/samue/Downloads/Vector (1).svg" />
+    <action id="RebuildCurrentProject" icon="C:/Users/samue/Downloads/Vector (3).svg" />
+    <action id="RebuildSolutionAction" icon="C:/Users/samue/Downloads/Vector (2).svg" />
+  </component>
+</application>
