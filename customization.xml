@@ -1,0 +1,16 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="SearchEverywhereNewToolbarAction" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Toolbar" />
+      <path value="Left Side" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SegmentedVcsControlAction" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Toolbar" />
+      <path value="Left Side" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
